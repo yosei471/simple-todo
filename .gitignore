@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / Vue
+node_modules/
+dist/
+
+# サブプロジェクト
+dev/pokemon-app/
