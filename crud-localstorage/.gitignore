@@ -22,24 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Python
-venv/
-__pycache__/
-*.pyc
-*.pyo
-
-# Node / Vue
-node_modules/
-dist/
-
-# OS 系
-.DS_Store
-Thumbs.db
-
-# 追跡したくないサブプロジェクト
-dev/pokemon-app/
-venv/
-node_modules/
-dist/
-
